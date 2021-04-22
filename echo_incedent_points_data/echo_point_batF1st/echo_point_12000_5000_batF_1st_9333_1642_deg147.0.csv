@@ -1,0 +1,18 @@
+right_echo_point
+0.0045007165
+left_echo_point
+0.004482212
+distance
+
+angle
+
+emit_points
+"(9333, 1642)"
+echo_points
+"(11258, 3208)"
+echo_points_power
+640.3609680129913
+echo_points_time_r_l
+"[0.0045007165, 0.004482212]"
+echo_points_power_r_l
+"[152.0654523923605, 488.2955156206308]"
