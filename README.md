@@ -11,3 +11,5 @@ Sorry for inconvenience, Bat ID connections are below.
 ### Bat F --> Bat MF
 ### Bat G --> Bat MH
 
+The FDTD program was created based on this program. I would like to thank Dr. Nagatani for his help.
+https://github.com/nagataniyoshiki/FDTD_processing
